@@ -16,3 +16,23 @@
   - [CodeQL-youtube](https://www.youtube.com/playlist?list=PLX8G9idOAfzg3uTfdAgDkybK9CG71vsaq)
   - [Variant analysis to find SQL injection using CodeQL - CVE-2019-6986](https://www.youtube.com/watch?v=uUvhplNbQOI)
   - [Discover vulnerabilities with CodeQL by: Boik Su (@boik_su)](https://www.youtube.com/watch?v=UDDHXBFbuqo)
+
+### 入门文章
+- [CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
+- [Learn Codeql With L4yn3](https://bingbingzi.cn/learn-codeql-with-l4yn3/)
+- [Codeql 挖洞？](https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ)
+- [Mining an SQL Injection Vulnerability Using CodeQL](https://bingbingzi.cn/learn-codeql-with-l4yn3/)
+### 相关Github
+- https://github.com/advanced-security/codeql-queries
+
+
+### 个人笔记
+
+Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
+- Static Analysis
+- Data Flow Analysis
+- Taint Analysis(污点分析)
+- CFG Analysis
+
+
+将经验的能力扩大，将自己对漏洞的理解建模，覆盖更多的一类正在被发现的漏洞，就像我之前所听到的那样，“漏洞就在那里，”
