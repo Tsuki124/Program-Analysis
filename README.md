@@ -38,6 +38,8 @@
 - [CodeQL学习笔记-by fynch3r](https://fynch3r.github.io/categories/CodeQL/)
 - [从Java反序列化漏洞题看CodeQL数据流](https://www.anquanke.com/post/id/256967)
 - [利用CodeQL寻找Java Deserialization Vulnerabilities](https://uxss.net/2020/05/04/%E5%88%A9%E7%94%A8CodeQL%E5%AF%BB%E6%89%BEJava%20Deserialization%20Vulnerabilities/)
+- [Codeql分析Vulnerability-GoApp](https://www.freebuf.com/articles/web/253491.html)
+- https://blog.ycdxsb.cn/categories/research/codeql/
 ### 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
@@ -54,17 +56,18 @@
 - [如何用CodeQL数据流复现 apache kylin命令执行漏洞](https://xz.aliyun.com/t/8240)
 - [使用codeql挖掘fastjson利用链](https://xz.aliyun.com/t/7482)
 - [CodeQL 污点分析寻找fastjson jndi链](https://blog.sometimenaive.com/2020/05/21/find-fastjson-jndi-gadget-by-codeql-tainttracking/)
+- [CodeQL with CVE-2021-2471](https://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/)
+
 
 ### 相关Github
 - https://github.com/advanced-security/codeql-queries
 - https://github.com/safe6Sec/CodeqlNote
 - https://github.com/github/securitylab/tree/main/CodeQL_Queries
-- [CodeQL with CVE-2021-2471](https://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/)
 - https://github.com/SummerSec/learning-codeql
 - https://github.com/SummerSec/LookupInterface
 - https://github.com/githubsatelliteworkshops/codeql
 - https://github.com/iflody/codeql-workshop CodeQL Workshop: Find bug in apache struts 2
-
+- https://github.com/haby0/mark
 ### 个人笔记
 
 Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
