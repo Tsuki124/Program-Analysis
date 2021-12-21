@@ -23,7 +23,7 @@
 - [CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
 - [Learn Codeql With L4yn3](https://bingbingzi.cn/learn-codeql-with-l4yn3/)
 - [Codeql 挖洞？](https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ)
-- [Mining an SQL Injection Vulnerability Using CodeQL](https://bingbingzi.cn/learn-codeql-with-l4yn3/)
+- [Mining an SQL Injection Vulnerability Using CodeQL](https://bingbingzi.cn/learn-codeql-with-l4yn3/) 基于java-sec-code项目
 - [CodeQL初入](https://kiprey.github.io/2020/12/CodeQL-setup/)
 - [使用 CodeQL 分析闭源 Java 程序](https://paper.seebug.org/1324/)
 - [CodeQL学习笔记](http://blog.gamous.cn/post/codeql/)
