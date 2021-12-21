@@ -33,19 +33,38 @@
 - [Codeql 入门](https://www.faiz2035.top/posts/codeql-getting-started/)
 - [代码分析平台CodeQL学习手记-系列](https://www.4hou.com/posts/o6wX)
 - https://lingze.xyz/pages/1948eb/
-- 
+- [codeql学习——污点分析](https://xz.aliyun.com/t/7789)
+- [CodeQL 快速上手](https://www.yuque.com/docs/share/738555ae-258e-4f27-8818-6024b8225488?#)
+- [CodeQL学习笔记-by fynch3r](https://fynch3r.github.io/categories/CodeQL/)
+- [从Java反序列化漏洞题看CodeQL数据流](https://www.anquanke.com/post/id/256967)
+- [利用CodeQL寻找Java Deserialization Vulnerabilities](https://uxss.net/2020/05/04/%E5%88%A9%E7%94%A8CodeQL%E5%AF%BB%E6%89%BEJava%20Deserialization%20Vulnerabilities/)
 ### 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
 - [Deep-in-codeql](https://jimp.top/Deep-in-codeql/)
-- [CodeQL从0到1（内附Shiro检测演示）](https://zhuanlan.zhihu.com/p/420530213)
+- [CodeQL从0到1（内附Shiro检测演示）](https://www.anquanke.com/post/id/255721)
 - [CodeQL 的学习以及尝试漏洞挖掘](https://bestwing.me/codeql.html)
 - [CodeQL漏洞挖掘实战](https://blog.rabit.pw/2020/codeql-uboot-bug-hunting/)
+- [CodeQL：“查询”你的下一个漏洞](https://www.anquanke.com/post/id/212305)
+- [S2-057漏洞原作者自述：如何利用自动化工具发现5个RCE](https://www.anquanke.com/post/id/157583)
+- [使用codeql 挖掘 ofcms](https://www.anquanke.com/post/id/203674)
+- [CodeQL 若干问题思考及 CVE-2019-3560 审计详解](https://lennysec.github.io/codql-and-cve-2019-3560/)
+- [我是如何使用codeql挖掘CVE-2021-31856Meshery-sqli的](https://ssst0n3.github.io/post/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E6%89%AB%E6%8F%8F/AST/codeql/codeql%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%88%96%E5%88%86%E6%9E%90%E5%AE%9E%E8%B7%B5/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8codeql%E6%8C%96%E6%8E%98CVE-2021-31856Meshery-sqli%E7%9A%84.html)
+- [使用 CodeQL 挖掘 CVE-2020-9297](使用 CodeQL 挖掘 CVE-2020-9297)
+- [如何用CodeQL数据流复现 apache kylin命令执行漏洞](https://xz.aliyun.com/t/8240)
+- [使用codeql挖掘fastjson利用链](https://xz.aliyun.com/t/7482)
+- [CodeQL 污点分析寻找fastjson jndi链](https://blog.sometimenaive.com/2020/05/21/find-fastjson-jndi-gadget-by-codeql-tainttracking/)
+
 ### 相关Github
 - https://github.com/advanced-security/codeql-queries
 - https://github.com/safe6Sec/CodeqlNote
 - https://github.com/github/securitylab/tree/main/CodeQL_Queries
 - [CodeQL with CVE-2021-2471](https://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/)
+- https://github.com/SummerSec/learning-codeql
+- https://github.com/SummerSec/LookupInterface
+- https://github.com/githubsatelliteworkshops/codeql
+- https://github.com/iflody/codeql-workshop CodeQL Workshop: Find bug in apache struts 2
+
 ### 个人笔记
 
 Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
