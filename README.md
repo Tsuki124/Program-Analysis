@@ -50,7 +50,7 @@
 - [使用codeql 挖掘 ofcms](https://www.anquanke.com/post/id/203674)
 - [CodeQL 若干问题思考及 CVE-2019-3560 审计详解](https://lennysec.github.io/codql-and-cve-2019-3560/)
 - [我是如何使用codeql挖掘CVE-2021-31856Meshery-sqli的](https://ssst0n3.github.io/post/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E6%89%AB%E6%8F%8F/AST/codeql/codeql%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%88%96%E5%88%86%E6%9E%90%E5%AE%9E%E8%B7%B5/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8codeql%E6%8C%96%E6%8E%98CVE-2021-31856Meshery-sqli%E7%9A%84.html)
-- [使用 CodeQL 挖掘 CVE-2020-9297](使用 CodeQL 挖掘 CVE-2020-9297)
+- [使用 CodeQL 挖掘 CVE-2020-9297](https://xz.aliyun.com/t/7979)
 - [如何用CodeQL数据流复现 apache kylin命令执行漏洞](https://xz.aliyun.com/t/8240)
 - [使用codeql挖掘fastjson利用链](https://xz.aliyun.com/t/7482)
 - [CodeQL 污点分析寻找fastjson jndi链](https://blog.sometimenaive.com/2020/05/21/find-fastjson-jndi-gadget-by-codeql-tainttracking/)
@@ -72,6 +72,5 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 - Data Flow Analysis
 - Taint Analysis(污点分析)
 - CFG Analysis
-
 
 将经验的能力扩大，将自己对漏洞的理解建模，覆盖更多的一类正在被发现的漏洞，就像我之前所听到的那样，“漏洞就在那里，”
