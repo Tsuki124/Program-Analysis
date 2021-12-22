@@ -42,7 +42,13 @@
 - https://blog.ycdxsb.cn/categories/research/codeql/
 - [codeql学习笔记1](https://mp.weixin.qq.com/s/KA-s62tMnoqkJwVjxrDYuQ)
 - [codeql学习笔记2](https://mp.weixin.qq.com/s/JzAAsiuOr0QdL5nEfQv1fg)
-- 
+- [Practical Introduction to CodeQL](https://jorgectf.gitlab.io/blog/post/practical-codeql-introduction/)
+- [CodeQL上手笔记](https://mp.weixin.qq.com/s/aU9Gq_xRgAXqU-bwAvMmig)
+- [为 CodeQL 自定义规则编写测试文件](https://mp.weixin.qq.com/s/rdLwBJrhDcYQFB5_gUitMQ)
+- [CodeQL快速上手](https://mp.weixin.qq.com/s/9vWSKVolqR8P1gJhN4pEOQ)
+- [CodeQL检测SpringBoot应用敏感信息的返回](https://mp.weixin.qq.com/s/7wJKMVyc36U-PciZGmjrcg)
+- [codeql入门指南](https://mp.weixin.qq.com/s/JIBlYW5wVg13Hyk-PmFPXA)
+- [白盒审计之CodeQL](https://mp.weixin.qq.com/s/q426UdHTxgux5iAlglFwPA)
 ### 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
@@ -60,8 +66,13 @@
 - [使用codeql挖掘fastjson利用链](https://xz.aliyun.com/t/7482)
 - [CodeQL 污点分析寻找fastjson jndi链](https://blog.sometimenaive.com/2020/05/21/find-fastjson-jndi-gadget-by-codeql-tainttracking/)
 - [CodeQL with CVE-2021-2471](https://m0d9.me/2021/11/01/CodeQL-CVE-2021-2471/)
-
-
+- [Variant analysis to find SQL injection using CodeQL - CVE-2019-6986](https://www.youtube.com/watch?v=uUvhplNbQOI)
+- [Hunting for XSS with CodeQL](https://medium.com/codex/hunting-for-xss-with-codeql-57f70763b938)
+- [如何用CodeQL数据流复现 apache kylin命令执行漏洞](https://mp.weixin.qq.com/s/9GgV4a5tgHH0zHOePqwySQ)
+- [CODEQL数据流分析Hadoop](https://mp.weixin.qq.com/s/CyhWw4t8LdGhCpixacb6Xg)
+- [漏洞精粹 | 复盘利用 codeql '神器'挖掘 Ognl 漏洞](https://mp.weixin.qq.com/s/9GgV4a5tgHH0zHOePqwySQ)
+- [CodeQL挖掘React应用的XSS实践](https://mp.weixin.qq.com/s/zH0EhOLFgwgFk8rIWezk-g)
+- [我是如何使用codeql发现CVE-2021-31856 Meshery sql注入的](https://mp.weixin.qq.com/s/Po35ErrD3RXCXhecFEPBTw)
 ### 相关Github
 - https://github.com/advanced-security/codeql-queries
 - https://github.com/safe6Sec/CodeqlNote
@@ -71,6 +82,9 @@
 - https://github.com/githubsatelliteworkshops/codeql
 - https://github.com/iflody/codeql-workshop CodeQL Workshop: Find bug in apache struts 2
 - https://github.com/haby0/mark
+- https://github.com/Semmle/SecurityQueries
+- https://github.com/cldrn/codeql-queries
+- 
 ### 个人笔记
 
 Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
