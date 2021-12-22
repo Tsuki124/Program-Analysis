@@ -40,6 +40,9 @@
 - [利用CodeQL寻找Java Deserialization Vulnerabilities](https://uxss.net/2020/05/04/%E5%88%A9%E7%94%A8CodeQL%E5%AF%BB%E6%89%BEJava%20Deserialization%20Vulnerabilities/)
 - [Codeql分析Vulnerability-GoApp](https://www.freebuf.com/articles/web/253491.html)
 - https://blog.ycdxsb.cn/categories/research/codeql/
+- [codeql学习笔记1](https://mp.weixin.qq.com/s/KA-s62tMnoqkJwVjxrDYuQ)
+- [codeql学习笔记2](https://mp.weixin.qq.com/s/JzAAsiuOr0QdL5nEfQv1fg)
+- 
 ### 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
