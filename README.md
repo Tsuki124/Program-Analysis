@@ -84,6 +84,8 @@
 - https://github.com/haby0/mark
 - https://github.com/Semmle/SecurityQueries
 - https://github.com/cldrn/codeql-queries
+- https://github.com/hac425xxx/codeql-snippets
+- https://github.com/msrkp/codeql_for_gadgets
 - 
 ### 个人笔记
 
