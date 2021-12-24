@@ -49,6 +49,8 @@
 - [CodeQL检测SpringBoot应用敏感信息的返回](https://mp.weixin.qq.com/s/7wJKMVyc36U-PciZGmjrcg)
 - [codeql入门指南](https://mp.weixin.qq.com/s/JIBlYW5wVg13Hyk-PmFPXA)
 - [白盒审计之CodeQL](https://mp.weixin.qq.com/s/q426UdHTxgux5iAlglFwPA)
+- [CodeQL官方教程中几道QL练习题](https://ovi3.github.io/2021/03/04/codeql-exercises-from-ql-tutorial/)
+- https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/#ql-tutorials
 ### 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
