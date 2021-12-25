@@ -139,6 +139,8 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 - 使用soot生成程序流程图和IR文件 https://www.jianshu.com/p/7444be64d5c9
 - http://pkuduo.cn/blog/2018/05/08/SOOT/
 
+相关Github
+- https://github.com/PL-Ninja/MySootScript
 
 实际应用
 - 利用Soot对APK插桩实践 https://www.cnblogs.com/xine/p/14533697.html
