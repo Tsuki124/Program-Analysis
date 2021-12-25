@@ -6,10 +6,16 @@ Index
 - Related tool
   - [CodeQL](https://github.com/pen4uin/Program-Analysis/#codeql)
   - [Soot](https://github.com/pen4uin/Program-Analysis/#soot)
+  - [Gadget Inspector](https://github.com/pen4uin/Program-Analysis/#gadget-inspector)
+  - [FlowDroid](https://github.com/pen4uin/Program-Analysis/#flowdroid)
 ## Static Program Analysis
 - 视频教程
   - Program Analysis (Winter 2021) https://www.bilibili.com/video/BV1aL4y167vY
   - 南京大学《软件分析》 https://www.bilibili.com/video/BV1b7411K7P4
+
+- 相关文章
+  - [Java静态分析&gadgetinspector改造扫描sb](https://lfysec.top/2020/08/03/Java%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90&gadgetinspector%E6%94%B9%E9%80%A0%E6%89%AB%E6%8F%8Fsb/)
+  - [从AST到100个某知名OA前台注入](https://www.freebuf.com/articles/web/237291.html)
 ### Compilation Principle
 
 视频教程
@@ -130,6 +136,14 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 
 入门文章
 - Soot使用笔记 https://www.cnblogs.com/xine/p/14511818.html
+- 使用soot生成程序流程图和IR文件 https://www.jianshu.com/p/7444be64d5c9
+- http://pkuduo.cn/blog/2018/05/08/SOOT/
+
 
 实际应用
 - 利用Soot对APK插桩实践 https://www.cnblogs.com/xine/p/14533697.html
+
+## Gadget Inspector
+- https://github.com/JackOfMostTrades/gadgetinspector
+
+## FlowDroid
