@@ -79,6 +79,8 @@ Index
 - [白盒审计之CodeQL](https://mp.weixin.qq.com/s/q426UdHTxgux5iAlglFwPA)
 - [CodeQL官方教程中几道QL练习题](https://ovi3.github.io/2021/03/04/codeql-exercises-from-ql-tutorial/)
 - https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/#ql-tutorials
+- [CodeQL 试用](https://anemone.top/whitebox-CodeQL%E5%88%9D%E6%8E%A2/)
+
 
 **实际案例(基于CVE漏洞)**
 
@@ -138,6 +140,7 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 - Soot使用笔记 https://www.cnblogs.com/xine/p/14511818.html
 - 使用soot生成程序流程图和IR文件 https://www.jianshu.com/p/7444be64d5c9
 - http://pkuduo.cn/blog/2018/05/08/SOOT/
+- Soot的安装与使用 https://www.cnblogs.com/crossain/p/12813643.html
 
 相关Github
 - https://github.com/PL-Ninja/MySootScript
@@ -149,3 +152,7 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 - https://github.com/JackOfMostTrades/gadgetinspector
 
 ## FlowDroid
+- https://github.com/secure-software-engineering/FlowDroid
+
+相关文章
+- [FlowDroid 工具介绍和试用（草稿）](http://yufeiyang1995.github.io/FlowDroid%E4%BB%8B%E7%BB%8D-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E5%8F%8A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9)
