@@ -24,7 +24,12 @@ Index
 相关Github
 - https://github.com/KpLi0rn/LearnCompiler
 
-
+相关文章
+- 编译原理初学者入门指南 https://mp.weixin.qq.com/s/ZTxVG6KG-4vzbvclC_Q1LQ
+- 基本功 | Java即时编译器原理解析及实践 https://mp.weixin.qq.com/s/7PH8o1tbjLsM4-nOnjbwLw
+- Java编译原理(javac) https://mp.weixin.qq.com/s/0KaYN30yn-EaMpmlG6RV_w
+- Java 动态编译原理深入研究 https://mp.weixin.qq.com/s/QmyNwHQ1Vm2N-QDc8GqyAg
+- 深入分析Java的编译原理 https://mp.weixin.qq.com/s/nS7HbYsEPFoZBaBi2Y3r0Q
 ## 相关工具
 ### Codeql
 **视频教程**
@@ -80,7 +85,7 @@ Index
 - [CodeQL官方教程中几道QL练习题](https://ovi3.github.io/2021/03/04/codeql-exercises-from-ql-tutorial/)
 - https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/#ql-tutorials
 - [CodeQL 试用](https://anemone.top/whitebox-CodeQL%E5%88%9D%E6%8E%A2/)
-
+- [Codeql 入门](https://mp.weixin.qq.com/s/cxsjCyIXcgVphIcCqTDqJw)
 
 **实际案例(基于CVE漏洞)**
 
@@ -107,7 +112,7 @@ Index
 - [漏洞精粹 | 复盘利用 codeql '神器'挖掘 Ognl 漏洞](https://mp.weixin.qq.com/s/9GgV4a5tgHH0zHOePqwySQ)
 - [CodeQL挖掘React应用的XSS实践](https://mp.weixin.qq.com/s/zH0EhOLFgwgFk8rIWezk-g)
 - [我是如何使用codeql发现CVE-2021-31856 Meshery sql注入的](https://mp.weixin.qq.com/s/Po35ErrD3RXCXhecFEPBTw)
-
+- [利用CodeQL分析并挖掘Log4j漏洞](https://mp.weixin.qq.com/s/JYco8DysQNszMohH6zJEGw)
 **相关Github**
 
 - https://github.com/advanced-security/codeql-queries
