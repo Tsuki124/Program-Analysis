@@ -39,7 +39,7 @@ Index
 - 58集团白盒代码审计系统建设实践2：深入理解SAST https://www.anquanke.com/post/id/237801
 ## 相关工具
 ### Codeql
-**视频教程**
+视频教程
 - Github
   - [CodeQL Live Episode 1](https://www.youtube.com/watch?v=AMzGorD28Ks)
   - [LiveQL Episode 2 - The Rhino in the room.](https://www.youtube.com/watch?v=wPqK-Ealz-0)
@@ -57,7 +57,7 @@ Index
   - [Variant analysis to find SQL injection using CodeQL - CVE-2019-6986](https://www.youtube.com/watch?v=uUvhplNbQOI)
   - [Discover vulnerabilities with CodeQL by: Boik Su (@boik_su)](https://www.youtube.com/watch?v=UDDHXBFbuqo)
 
-**入门文章**
+入门文章
 
 - [CodeQL query help for Java](https://codeql.github.com/codeql-query-help/java/)
 - [CodeQL从入门到放弃](https://www.freebuf.com/articles/web/283795.html)
@@ -94,7 +94,7 @@ Index
 - [CodeQL 试用](https://anemone.top/whitebox-CodeQL%E5%88%9D%E6%8E%A2/)
 - [Codeql 入门](https://mp.weixin.qq.com/s/cxsjCyIXcgVphIcCqTDqJw)
 
-**实际案例(基于CVE漏洞)**
+实际案例(基于CVE漏洞)
 
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
@@ -120,7 +120,8 @@ Index
 - [CodeQL挖掘React应用的XSS实践](https://mp.weixin.qq.com/s/zH0EhOLFgwgFk8rIWezk-g)
 - [我是如何使用codeql发现CVE-2021-31856 Meshery sql注入的](https://mp.weixin.qq.com/s/Po35ErrD3RXCXhecFEPBTw)
 - [利用CodeQL分析并挖掘Log4j漏洞](https://mp.weixin.qq.com/s/JYco8DysQNszMohH6zJEGw)
-**相关Github**
+
+相关Github
 
 - https://github.com/advanced-security/codeql-queries
 - https://github.com/safe6Sec/CodeqlNote
@@ -136,7 +137,7 @@ Index
 - https://github.com/msrkp/codeql_for_gadgets
 - 
 
-**个人笔记**
+个人笔记
 
 Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
 - Static Analysis
@@ -146,7 +147,7 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 
 将经验的能力扩大，将自己对漏洞的理解建模，覆盖更多的一类正在被发现的漏洞，就像我之前所听到的那样，“漏洞就在那里，”
 
-## Soot
+### Soot
 
 入门文章
 - Soot使用笔记 https://www.cnblogs.com/xine/p/14511818.html
@@ -160,13 +161,13 @@ Codeql ships with(提供) extensive(大量的) libraries to empower(支持) vari
 - https://github.com/noidsirius/SootTutorial
 
 
-实际应用
+实际案例
 - 利用Soot对APK插桩实践 https://www.cnblogs.com/xine/p/14533697.html
 
-## Gadget Inspector
+### Gadget Inspector
 - https://github.com/JackOfMostTrades/gadgetinspector
 
-## FlowDroid
+### FlowDroid
 - https://github.com/secure-software-engineering/FlowDroid
 
 相关文章
