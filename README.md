@@ -93,6 +93,7 @@ Index
 - https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/#ql-tutorials
 - [CodeQL 试用](https://anemone.top/whitebox-CodeQL%E5%88%9D%E6%8E%A2/)
 - [Codeql 入门](https://mp.weixin.qq.com/s/cxsjCyIXcgVphIcCqTDqJw)
+- [Codeql 入门 java-sec-code项目](https://www.faiz2035.top/posts/codeql-getting-started/)
 
 实际案例(基于CVE漏洞)
 
