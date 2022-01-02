@@ -137,6 +137,8 @@ Index
 - https://github.com/hac425xxx/codeql-snippets
 - https://github.com/msrkp/codeql_for_gadgets
 - https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit
+- https://github.com/ice-doom/codeql_compile
+
 
 个人笔记
 
