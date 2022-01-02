@@ -122,6 +122,8 @@ Index
 - [我是如何使用codeql发现CVE-2021-31856 Meshery sql注入的](https://mp.weixin.qq.com/s/Po35ErrD3RXCXhecFEPBTw)
 - [利用CodeQL分析并挖掘Log4j漏洞](https://mp.weixin.qq.com/s/JYco8DysQNszMohH6zJEGw)
 - [NSA emissary多个漏洞分析复现和CodeQL实践](https://forum.butian.net/share/604)
+
+
 相关Github
 
 - https://github.com/advanced-security/codeql-queries
