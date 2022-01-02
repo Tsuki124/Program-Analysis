@@ -95,6 +95,8 @@ Index
 - [Codeql 入门](https://mp.weixin.qq.com/s/cxsjCyIXcgVphIcCqTDqJw)
 - [Codeql 入门 java-sec-code项目](https://www.faiz2035.top/posts/codeql-getting-started/)
 - [CodeQL使用](https://www.angelwhu.com/paper/2019/12/30/CodeQL-introduction/)
+
+
 实际案例(基于CVE漏洞)
 
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
