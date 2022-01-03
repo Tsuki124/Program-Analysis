@@ -98,7 +98,6 @@ Index
 - https://www.cnblogs.com/goodhacker/p
 
 实际案例(基于CVE漏洞)
-
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
 - [Using CodeQL to detect client-side vulnerabilities in web applications](https://raz0r.name/articles/using-codeql-to-detect-client-side-vulnerabilities-in-web-applications/)
 - [Deep-in-codeql](https://jimp.top/Deep-in-codeql/)
@@ -127,7 +126,7 @@ Index
 
 
 相关Github
-
+- https://github.com/github/securitylab
 - https://github.com/advanced-security/codeql-queries
 - https://github.com/safe6Sec/CodeqlNote
 - https://github.com/github/securitylab/tree/main/CodeQL_Queries
