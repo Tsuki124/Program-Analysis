@@ -142,17 +142,6 @@ Index
 - https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit
 - https://github.com/ice-doom/codeql_compile
 
-
-个人笔记
-
-Codeql ships with(提供) extensive(大量的) libraries to empower(支持) variant(变量) analysis,
-- Static Analysis
-- Data Flow Analysis
-- Taint Analysis(污点分析)
-- CFG Analysis
-
-将经验的能力扩大，将自己对漏洞的理解建模，覆盖更多的一类正在被发现的漏洞，就像我之前所听到的那样，“漏洞就在那里，”
-
 ### Soot
 
 入门文章
