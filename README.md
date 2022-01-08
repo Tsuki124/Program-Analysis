@@ -19,6 +19,7 @@ Index
 - 相关文章
   - [Java静态分析&gadgetinspector改造扫描sb](https://lfysec.top/2020/08/03/Java%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90&gadgetinspector%E6%94%B9%E9%80%A0%E6%89%AB%E6%8F%8Fsb/)
   - [从AST到100个某知名OA前台注入](https://www.freebuf.com/articles/web/237291.html)
+
 #### Compilation Principle
 
 视频教程
@@ -28,6 +29,7 @@ Index
 - https://github.com/KpLi0rn/LearnCompiler
 - https://github.com/RichardGong/PlayWithCompiler
 - https://github.com/RichardGong/CompilersInPractice
+
 相关文章
 - 编译原理初学者入门指南 https://mp.weixin.qq.com/s/ZTxVG6KG-4vzbvclC_Q1LQ
 - 基本功 | Java即时编译器原理解析及实践 https://mp.weixin.qq.com/s/7PH8o1tbjLsM4-nOnjbwLw
@@ -143,6 +145,7 @@ Index
 - https://github.com/msrkp/codeql_for_gadgets
 - https://github.com/twosmi1e/Static-Analysis-and-Automated-Code-Audit
 - https://github.com/ice-doom/codeql_compile
+- https://github.com/Firebasky/CodeqlLearn
 
 ### Soot
 
