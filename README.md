@@ -26,7 +26,8 @@ Index
 
 相关Github
 - https://github.com/KpLi0rn/LearnCompiler
-
+- https://github.com/RichardGong/PlayWithCompiler
+- https://github.com/RichardGong/CompilersInPractice
 相关文章
 - 编译原理初学者入门指南 https://mp.weixin.qq.com/s/ZTxVG6KG-4vzbvclC_Q1LQ
 - 基本功 | Java即时编译器原理解析及实践 https://mp.weixin.qq.com/s/7PH8o1tbjLsM4-nOnjbwLw
