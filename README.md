@@ -36,6 +36,9 @@ Index
 - Java编译原理(javac) https://mp.weixin.qq.com/s/0KaYN30yn-EaMpmlG6RV_w
 - Java 动态编译原理深入研究 https://mp.weixin.qq.com/s/QmyNwHQ1Vm2N-QDc8GqyAg
 - 深入分析Java的编译原理 https://mp.weixin.qq.com/s/nS7HbYsEPFoZBaBi2Y3r0Q
+- 深入分析 Javac 编译原理 https://juejin.cn/post/6844903680798359566
+- Javac 源码分析 http://47.100.139.123/blog/article/26
+- Javac 原理分析 http://47.100.139.123/blog/article/25
 
 #### Static Application Security Testing(SAST)
 相关文章
