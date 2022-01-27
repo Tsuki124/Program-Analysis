@@ -1,15 +1,15 @@
-# Static Program Analysis
+# Static Analysis
 
 - Pre Knowledge
   - Static Analysis
   - Compilation Principle `编译原理`
   - Static Application Security Testing(SAST)
 - Related tool
-  - [CodeQL](https://github.com/pen4uin/Static_Analysis/#codeql)
-  - [Soot](https://github.com/pen4uin/Static_Analysis/#soot)
-  - [Gadget Inspector](https://github.com/pen4uin/Static_Analysis/#gadget-inspector)
-  - [FlowDroid](https://github.com/pen4uin/Static_Analysis/#flowdroid)
-
+  - [CodeQL](https://github.com/pen4uin/static-analysis/#codeql)
+  - [Soot](https://github.com/pen4uin/static-analysis/#soot)
+  - [Gadget Inspector](https://github.com/pen4uin/static-analysis/#gadget-inspector)
+  - [FlowDroid](https://github.com/pen4uin/static-analysis/#flowdroid)
+  - [Semgrep](https://github.com/pen4uin/static-analysis/#semgrep)
 ## Pre Knowledge
 ### Static Analysis
 相关视频
@@ -185,3 +185,13 @@
 相关文章
 - [FlowDroid 工具介绍和试用（草稿）](http://yufeiyang1995.github.io/FlowDroid%E4%BB%8B%E7%BB%8D-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E5%8F%8A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9)
 
+### Semgrep
+
+相关文章
+- https://segmentfault.com/a/1190000040114942 Semgrep结合GitLab实现代码审计实践-服务端
+- https://blog.csdn.net/weixin_44420143/article/details/118702245 一款轻量级开源SAST工具semgrep的分析
+- https://www.freebuf.com/articles/web/286643.html semgrep SAST编写自定义漏洞检测规则实践
+
+相关Github
+- https://github.com/returntocorp/semgrep-rules  规则
+- https://semgrep.dev/r 规则
