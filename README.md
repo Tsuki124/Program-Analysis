@@ -71,7 +71,7 @@
   - [CodeQL-youtube](https://www.youtube.com/playlist?list=PLX8G9idOAfzg3uTfdAgDkybK9CG71vsaq)
   - [Variant analysis to find SQL injection using CodeQL - CVE-2019-6986](https://www.youtube.com/watch?v=uUvhplNbQOI)
   - [Discover vulnerabilities with CodeQL by: Boik Su (@boik_su)](https://www.youtube.com/watch?v=UDDHXBFbuqo)
-
+  - [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/)
 入门文章
 
 - [CodeQL query help for Java](https://codeql.github.com/codeql-query-help/java/)
