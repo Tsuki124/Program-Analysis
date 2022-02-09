@@ -111,6 +111,7 @@
 - [Codeql 入门 java-sec-code项目](https://www.faiz2035.top/posts/codeql-getting-started/)
 - [CodeQL使用](https://www.angelwhu.com/paper/2019/12/30/CodeQL-introduction/)
 - https://www.cnblogs.com/goodhacker/p
+- [CodeQL 数据流分析/污点分析 笔记（上篇）](https://eternalsakura13.com/2022/02/08/codeql_flow_analyze/)
 
 实际案例(基于CVE漏洞)
 - [深入学习CodeQL by security_lab](https://kiprey.github.io/2020/12/secLab-CodeQL-learning/)
