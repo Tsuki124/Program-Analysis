@@ -34,3 +34,4 @@
 相关Github
 ---
 - https://github.com/guardrailsio/awesome-golang-security
+- https://github.com/leveryd/go-sec-code Go漏洞靶场
