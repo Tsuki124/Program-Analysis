@@ -15,7 +15,7 @@
 - [09 Exploit .NET ViewState Deserialization with IsolateApps Modifier](https://ricterz.me/posts/2021-03-02-exploit-.net-viewstate-deserialization-with-isolateapps-modifier.txt) `by RicterZ`
 - [10 记对某.net系统的审计](https://xz.aliyun.com/t/11029) `by Alpaca`
 - [11 通杀.NET的XSS](https://m09ic.top/posts/35797/) `by m09ic`
-
+- [12 记一次项目中如何快速定位.net漏洞点](https://xz.aliyun.com/t/11185) `by am0s`
 
 相关Github
 ---
